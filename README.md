@@ -4,7 +4,7 @@
 
 ## ⬇️ Скачать
 
-### 👉 [Открыть страницу последней версии](https://github.com/viso-afk/cosmo-releases/releases/latest)
+### 👉 [Открыть страницу последней версии](https://github.com/MyReleases/cosmo-releases/releases/latest)
 
 На открывшейся странице найдите блок **Assets** и нажмите на файл **`Cosmo-Setup-….exe`** — это установщик (около 100 МБ). Остальные файлы в списке (`latest.yml`, `.blockmap`, `Source code`) скачивать не нужно.
 
@@ -29,4 +29,4 @@
 
 ---
 
-**English.** Download the installer from the [latest release page](https://github.com/viso-afk/cosmo-releases/releases/latest): under **Assets**, click `Cosmo-Setup-….exe`. If Windows SmartScreen appears, choose **More info → Run anyway**. Updates install automatically.
+**English.** Download the installer from the [latest release page](https://github.com/MyReleases/cosmo-releases/releases/latest): under **Assets**, click `Cosmo-Setup-….exe`. If Windows SmartScreen appears, choose **More info → Run anyway**. Updates install automatically.
